@@ -1,0 +1,111 @@
+[ {
+  "uid" : "2dc9139761f3af4d",
+  "name" : "Find by status for -  available",
+  "time" : {
+    "start" : 1591625809556,
+    "stop" : 1591625809843,
+    "duration" : 287
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f993e8745f730608",
+  "name" : "[1] available",
+  "time" : {
+    "start" : 1591625809384,
+    "stop" : 1591625809461,
+    "duration" : 77
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc7df8676ced6cdd",
+  "name" : "Find by status for -  sold",
+  "time" : {
+    "start" : 1591625809847,
+    "stop" : 1591625809944,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab9491f23186d12c",
+  "name" : "Test to verify that pet can be deleted",
+  "time" : {
+    "start" : 1591625809802,
+    "stop" : 1591625809903,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2be7e3b2f0ec0aa",
+  "name" : "Test to verify that it is possible to update existing pet with form data",
+  "time" : {
+    "start" : 1591625809905,
+    "stop" : 1591625809956,
+    "duration" : 51
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41f5bbc19e566b7d",
+  "name" : "Find by status for -  pending",
+  "time" : {
+    "start" : 1591625809954,
+    "stop" : 1591625809985,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b66f182d5fc8ec6a",
+  "name" : "[3] sold",
+  "time" : {
+    "start" : 1591625809516,
+    "stop" : 1591625809548,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cd31772c182e25e",
+  "name" : "Test to verify that it is possible to upload file",
+  "time" : {
+    "start" : 1591625806614,
+    "stop" : 1591625809309,
+    "duration" : 2695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24cc7a149fade947",
+  "name" : "Test to verify that it is possible to update pet",
+  "time" : {
+    "start" : 1591625806613,
+    "stop" : 1591625809285,
+    "duration" : 2672
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14aeaba5dd4bccc3",
+  "name" : "Test to verify that it is possible to get a pet by id",
+  "time" : {
+    "start" : 1591625809335,
+    "stop" : 1591625809788,
+    "duration" : 453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79d8884d8466c79c",
+  "name" : "[2] pending",
+  "time" : {
+    "start" : 1591625809468,
+    "stop" : 1591625809512,
+    "duration" : 44
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

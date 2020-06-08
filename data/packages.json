@@ -1,0 +1,152 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "com.alemdianov.api.tests.PesstoreApiTest",
+    "children" : [ {
+      "name" : "updatePetTest",
+      "uid" : "24cc7a149fade947",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625806613,
+        "stop" : 1591625809285,
+        "duration" : 2672
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "uploadFileTest",
+      "uid" : "3cd31772c182e25e",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625806614,
+        "stop" : 1591625809309,
+        "duration" : 2695
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "getByItTest",
+      "uid" : "14aeaba5dd4bccc3",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625809335,
+        "stop" : 1591625809788,
+        "duration" : 453
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "createNewPetTest",
+      "uid" : "f993e8745f730608",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625809384,
+        "stop" : 1591625809461,
+        "duration" : 77
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "createNewPetTest",
+      "uid" : "79d8884d8466c79c",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625809468,
+        "stop" : 1591625809512,
+        "duration" : 44
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "createNewPetTest",
+      "uid" : "b66f182d5fc8ec6a",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625809516,
+        "stop" : 1591625809548,
+        "duration" : 32
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "findByStatus",
+      "uid" : "2dc9139761f3af4d",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625809556,
+        "stop" : 1591625809843,
+        "duration" : 287
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "deletePetTest",
+      "uid" : "ab9491f23186d12c",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625809802,
+        "stop" : 1591625809903,
+        "duration" : 101
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "findByStatus",
+      "uid" : "fc7df8676ced6cdd",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625809847,
+        "stop" : 1591625809944,
+        "duration" : 97
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "updateWithFormDataTest",
+      "uid" : "c2be7e3b2f0ec0aa",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625809905,
+        "stop" : 1591625809956,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "findByStatus",
+      "uid" : "41f5bbc19e566b7d",
+      "parentUid" : "3cec61af6ce675ed4daf94273ed82618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591625809954,
+        "stop" : 1591625809985,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.alemdianov.api.tests.PesstoreApiTest"
+  } ],
+  "name" : "packages"
+}

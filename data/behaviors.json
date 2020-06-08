@@ -1,0 +1,148 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Test to verify that it is possible to update pet",
+    "uid" : "24cc7a149fade947",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625806613,
+      "stop" : 1591625809285,
+      "duration" : 2672
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test to verify that it is possible to upload file",
+    "uid" : "3cd31772c182e25e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625806614,
+      "stop" : 1591625809309,
+      "duration" : 2695
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test to verify that it is possible to get a pet by id",
+    "uid" : "14aeaba5dd4bccc3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625809335,
+      "stop" : 1591625809788,
+      "duration" : 453
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[1] available",
+    "uid" : "f993e8745f730608",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625809384,
+      "stop" : 1591625809461,
+      "duration" : 77
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[2] pending",
+    "uid" : "79d8884d8466c79c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625809468,
+      "stop" : 1591625809512,
+      "duration" : 44
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "[3] sold",
+    "uid" : "b66f182d5fc8ec6a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625809516,
+      "stop" : 1591625809548,
+      "duration" : 32
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Find by status for -  available",
+    "uid" : "2dc9139761f3af4d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625809556,
+      "stop" : 1591625809843,
+      "duration" : 287
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test to verify that pet can be deleted",
+    "uid" : "ab9491f23186d12c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625809802,
+      "stop" : 1591625809903,
+      "duration" : 101
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Find by status for -  sold",
+    "uid" : "fc7df8676ced6cdd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625809847,
+      "stop" : 1591625809944,
+      "duration" : 97
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test to verify that it is possible to update existing pet with form data",
+    "uid" : "c2be7e3b2f0ec0aa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625809905,
+      "stop" : 1591625809956,
+      "duration" : 51
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Find by status for -  pending",
+    "uid" : "41f5bbc19e566b7d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1591625809954,
+      "stop" : 1591625809985,
+      "duration" : 31
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}
