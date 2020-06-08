@@ -30,3 +30,8 @@ jobs:
       run: mvn clean test allure:report
     - name: Check allure repport
       run: ls -la target
+    - name: Deploy to GitHub Pages
+      uses: crazy-max/ghaction-github-pages@v2
+      with:
+          target_branch: gh-pages
+          build_dir: target/site/allure-maven-plugin
