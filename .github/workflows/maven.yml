@@ -28,8 +28,8 @@ jobs:
         java-version: 11
     - name: Build with Maven
       run: mvn clean test allure:report
-    - name: Check allure repport
-      run: ls -la target
+    - name: Generate .nojekyll file
+      run: touch target/site/allure-maven-plugin/.nojekyll
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v2
       with:
